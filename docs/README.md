@@ -1,7 +1,7 @@
 ---
 title: "Triggers"
 linkTitle: "Triggers"
-weight: 0
+weight: 3
 description: >
   Event Triggers
 ---
