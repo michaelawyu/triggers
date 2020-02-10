@@ -1,4 +1,9 @@
-# EventListener
+---
+title: "Event Listeners"
+linkTitle: "Event Listeners"
+weight: 5
+---
+
 
 `EventListener`s connect `TriggerBinding`s to `TriggerTemplate`s and provide an
 addressable endpoint, which is where webhooks/events are directed. This is also

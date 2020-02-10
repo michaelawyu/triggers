@@ -1,4 +1,9 @@
-# Exposing EventListeners Externally
+---
+title: "Exposing Event Listeners Externally"
+linkTitle: "Exposing Event Listeners Externally"
+weight: 6
+---
+
 
 By default, `ClusterIP` services such as the EventListener sink are accessible
 within the cluster. There are a few ways of exposing it so that external

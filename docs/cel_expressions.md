@@ -1,4 +1,8 @@
-# CEL expression extensions
+---
+title: "CEL Expression Extensions"
+linkTitle: "CEL Expression Extensions"
+weight: 8
+---
 
 The CEL expression is configured to expose parts of the request, and some custom
 functions to make matching easier.

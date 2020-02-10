@@ -1,4 +1,10 @@
-# Tekton Triggers
+---
+title: "Triggers"
+linkTitle: "Triggers"
+weight: 0
+description: >
+  Event Triggers
+---
 
 Triggers enables users to map fields from an event payload into resource
 templates. Put another way, this allows events to both model and instantiate

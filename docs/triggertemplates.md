@@ -1,4 +1,8 @@
-# TriggerTemplates
+---
+title: "Trigger Templates"
+linkTitle: "Trigger Templates"
+weight: 3
+---
 
 A `TriggerTemplate` is a resource that can template resources.
 `TriggerTemplate`s have [parameters](#parameters) that can be substituted

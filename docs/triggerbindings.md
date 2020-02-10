@@ -1,4 +1,9 @@
-# TriggerBindings
+---
+title: "Trigger Bindings"
+linkTitle: "Trigger Bindings"
+weight: 4
+---
+
 
 As per the name, `TriggerBinding`s bind against events/triggers.
 `TriggerBinding`s enable you to capture fields from an event and store them as

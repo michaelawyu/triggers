@@ -1,4 +1,8 @@
-# ClusterTriggerBindings
+---
+title: "Cluster Trigger Binding"
+linkTitle: "Cluster Trigger Binding"
+weight: 7
+---
 
 `ClusterTriggerBindings` is similar to TriggerBinding which is used to extract
 field from event payload. The only difference is it is cluster-scoped and

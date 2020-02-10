@@ -1,4 +1,8 @@
-# Installing Tekton Triggers
+---
+title: "Installation"
+linkTitle: "Installation"
+weight: 2
+---
 
 Use this page to add the component to an existing Kubernetes cluster.
 
