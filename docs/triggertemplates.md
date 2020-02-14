@@ -52,7 +52,7 @@ spec:
 
 
 Similar to
-[Pipelines](https://github.com/tektoncd/pipeline/blob/master/docs/pipelines.md),`TriggerTemplate`s
+[Pipelines](/docs/pipelines),`TriggerTemplate`s
 do not do any actual work, but instead act as the blueprint for what resources
 should be created.
 

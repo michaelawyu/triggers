@@ -41,13 +41,13 @@ does what has been specified in the corresponding
 `ClusterIP`; any other pods running in the same Kubernetes cluster can access
 services' via their cluster DNS. For external services to connect to your
 cluster (e.g. GitHub sending webhooks), check out the guide on
-[exposing eventlisteners](./exposing-eventlisteners.md)
+[exposing eventlisteners](/docs/exposing-eventlisteners)
 
 When the `EventListener` is created in the different namespace from the trigger
 component, `config-logging-triggers` ConfigMap is created for the logging
 configuration in the namespace when it doesn't exist. The ConfigMap with the
 default configuration can be created by applying
-[config-logging.yaml](../config/config-logging.yaml)
+[config-logging.yaml](https://github.com/tektoncd/triggers/blob/master/config/config-logging.yaml)
 
 `EventListener` `spec.serviceType` can be set to `ClusterIP (default)` |
 `NodePort` | `LoadBalancer` to configure the underlying `Service` resource to

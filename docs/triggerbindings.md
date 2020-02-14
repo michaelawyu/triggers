@@ -28,7 +28,7 @@ spec:
 
 
 `TriggerBinding`s are connected to `TriggerTemplate`s within an
-[`EventListener`](eventlisteners.md), which is where the pod is actually
+[`EventListener`](/docs/triggers/eventlisteners), which is where the pod is actually
 instantiated that "listens" for the respective events.
 
 ## Parameters
@@ -94,7 +94,7 @@ $(header.Two[1]) -> "two"
 
 ## Multiple Bindings
 
-In an [`EventListener`](eventlisteners.md), you may specify multiple bindings as
+In an [`EventListener`](/docs/triggers/eventlisteners), you may specify multiple bindings as
 part of your trigger. This allows you to create reusable bindings that can be
 mixed and matched with various triggers. For example, a trigger with one binding
 that extracts event information, and another binding that provides deploy

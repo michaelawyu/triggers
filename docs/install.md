@@ -35,7 +35,7 @@ Use this page to add the component to an existing Kubernetes cluster.
 
 3) Install Tekton Pipelines. You can install the latest version using the
    command below or follow the
-   [pipeline installation guide](https://github.com/tektoncd/pipeline/blob/master/docs/install.md):
+   [pipeline installation guide](https://tekton.dev/docs/getting-started):
 
    ```bash
    kubectl apply --filename https://storage.googleapis.com/tekton-releases/pipeline/latest/release.yaml
@@ -81,7 +81,7 @@ To add the Tekton Triggers component to an existing cluster:
 
 You are now ready to create and run Tekton Triggers:
 
-- See [Tekton Triggers Getting Started Guide](./getting-started/README.md) to
+- See [Tekton Triggers Getting Started Guide](https://github.com/tektoncd/triggers/blob/master/docs/getting-started/README.md) to
   get started.
 - Look at the
   [examples](https://github.com/tektoncd/triggers/tree/master/examples)
